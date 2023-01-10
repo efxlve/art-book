@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ArtBook</string>
+    <string name="save">Save</string>
+    <string name="year">year</string>
+    <string name="artist_name">artist name</string>
+    <string name="art_name">art name</string>
+    <string name="todo">TODO</string>
+</resources>
